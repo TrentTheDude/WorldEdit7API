@@ -6,7 +6,7 @@
 
     <groupId>me.trent.worldedit7</groupId>
     <artifactId>WorldEdit7API</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
 
 
     <repositories>
